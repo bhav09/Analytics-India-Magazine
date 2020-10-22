@@ -10,3 +10,5 @@ This repo is dedicated to the links to all my articles that I have contributed i
 4. [A Complete Guide To Outlier Detection With Hands-On Implementation For Beginners](https://analyticsindiamag.com/a-complete-guide-to-outlier-detection-with-hands-on-implementation-for-beginners/)
 
 5. [Beginners Guide To Optical Character Recognition Using Pytesseract](https://analyticsindiamag.com/beginners-guide-to-optical-character-recognition-using-pytesseract/)
+
+6. [A Tutorial On Google Teachable Machine For Object Classification Without Coding](https://analyticsindiamag.com/a-tutorial-on-google-teachable-machine-for-object-classification-without-coding/)
