@@ -24,3 +24,5 @@ Author at AIM: [Bhavishya Pandit](https://analyticsindiamag.com/author/bhavishya
 6. [A Tutorial On Google Teachable Machine For Object Classification Without Coding](https://analyticsindiamag.com/a-tutorial-on-google-teachable-machine-for-object-classification-without-coding/)
 
 7. [A Complete Guide On How To Approach A Machine Learning Problem For Beginners](https://analyticsindiamag.com/a-complete-guide-on-how-to-approach-a-machine-learning-problem-for-beginners/)
+
+8. [Comparing Different Programming Languages For Machine Learning](https://analyticsindiamag.com/comparing-different-programming-languages-for-machine-learning/)
