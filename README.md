@@ -1,5 +1,15 @@
 # Analytics-India-Magazine
+
+
 This repo is dedicated to the links to all my articles that I have contributed in my internship at Analytics India Magzine.
+
+
+### Profile link AIM
+
+Author at AIM: [Bhavishya Pandit](https://analyticsindiamag.com/author/bhavishya-panditanalyticsindiamag-com/)
+
+
+### List of Articles
 
 1. [Complete Guide To Vectors in Linear Algebra With Implementation in Python](https://analyticsindiamag.com/complete-guide-to-vectors-in-linear-algebra-with-implementation-in-python/)
 
