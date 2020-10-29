@@ -26,3 +26,5 @@ Author at AIM: [Bhavishya Pandit](https://analyticsindiamag.com/author/bhavishya
 7. [A Complete Guide On How To Approach A Machine Learning Problem For Beginners](https://analyticsindiamag.com/a-complete-guide-on-how-to-approach-a-machine-learning-problem-for-beginners/)
 
 8. [Comparing Different Programming Languages For Machine Learning](https://analyticsindiamag.com/comparing-different-programming-languages-for-machine-learning/)
+
+9. [IDLE vs Pycharm vs Spyder: Choosing The Right IDE For Machine Learning](https://analyticsindiamag.com/idle-vs-pycharm-vs-spyder-choosing-the-right-ide-for-machine-learning/)
